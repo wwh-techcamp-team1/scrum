@@ -5,8 +5,8 @@
 
 ## 의견
 
-- css를 처음 해보다 보니까 혼란스러웠다.
-- 어제 배민차 미션을 진행하긴 했는데 제대로 css를 이해하고 쓰는 느낌이 아니었다.
+- css를 처음 해서 조금 혼란스러웠다.
+- 배민찬 미션을 진행하는데 제대로 css를 이해하고 쓰는 느낌이 아니었다.
 
 ## 공유
 
@@ -14,12 +14,15 @@
 
 ## 어제까지 진도
 
-- 다인, 도연 html-css 배민찬 완료
-- 규남, 두호 html-css 배민찬 완료
+- html, css로 팀 소개 페이지 만들기
+- pair1(두호, 규남) 배민찬 html-css-basic 미션 구현
+- pair2(도연, 다인) 배민찬 html-css-basic 미션 구현
 
 ## 오늘 일정
 
-- Amazon Ec2 인스턴스 생성
-- Amazon Ec2 인스턴스 서버 셋팅(mysql)
-- mysql 구동 방식에 대한 설명
-- transaction
+- git test
+- AWS, DB 강의
+  - AWS EC2
+  - MySQL CRUD
+  - JOIN
+  - Transaction
