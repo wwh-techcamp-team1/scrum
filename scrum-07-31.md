@@ -8,7 +8,9 @@
 
 ## 공유
 - [Spring Profile](https://tramyu.github.io/java/spring/spring-profile/)
-나만 볼 수 있게 써놔서 못알아 볼 가능성이 높음
+내가 보려고 쓴거라 아마 못 알아볼듯.
+- [ec2 빌드 자동화](https://xmfpes.github.io/etc/server-setting/)
+이것도 내가 보려고 메모한거라 
 
 ## 어제까지 진도
 - pair1(두호, 다인) : 배민찬 2단계 인터셉터, ajax 구현이 남은 상태
