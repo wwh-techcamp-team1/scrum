@@ -9,9 +9,12 @@
 - 진도가 너무 늦는다 싶으면 야근을 해야할 것 같음. 이번주에 4단계까지 끝내는 걸 목표로 해보자.
 ## 공유
 - [Javascript DOM](https://tramyu.github.io/js/javascript-dom/)
-예전에 DOM 관련해서 살펴본 내용
+
+  예전에 DOM 관련해서 살펴본 내용
 - [Javascript Event](https://tramyu.github.io/js/javascript-event/)
-예전에 자바스크립트 이벤트에 대해 살펴본 내용, addEventListener 메소드가 모든 Object에서 사용할 수 있는 이유, 이벤트 버블링 캡처링에 대한 내용
+
+  예전에 자바스크립트 이벤트에 대해 살펴본 내용, addEventListener 메소드가 모든 Object에서 사용할 수 있는 이유, 이벤트 버블링 캡처링에 대한 내용
+  
 - [SpringBoot로 웹 서비스 출시하기](http://jojoldu.tistory.com/255?category=635883)
 
   DTO는 Entity를 사용해도 되지만, Entity는 DTO에 대해 전혀 모르게 코드를 구성해야한다.  
