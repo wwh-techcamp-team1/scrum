@@ -11,7 +11,7 @@
 - [Javascript DOM](https://tramyu.github.io/js/javascript-dom/)
 예전에 DOM 관련해서 살펴본 내용
 - [Javascript Event](https://tramyu.github.io/js/javascript-event/)
-예전에 자바스크립트 이벤트에 대해 살펴본 내용, addEventListener 메소드가 모든 Object에 있는 이유랑 이벤트 버블링 캡처링에 대한 내용
+예전에 자바스크립트 이벤트에 대해 살펴본 내용, addEventListener 메소드가 모든 Object에서 사용할 수 있는 이유, 이벤트 버블링 캡처링에 대한 내용
 
 ## 어제까지 진도
 - pair1(두호, 다인) : 2단계 완료
