@@ -2,7 +2,9 @@
 # 테크캠프 1조 데일리 미팅 - 23일차 (08.06 월)
 
 ## 의견
-- 
+- [Spring EhCache](https://github.com/wwh-techcamp-team1/tech/blob/master/06.Spring%20EhCache%20%EC%82%AC%EC%9A%A9.md)
+
+이걸 적용해도 되고, 그냥 spring-boot-starter-cache만 추가한 후 ConcurrentHashMap으로 캐싱을 해도 됨. 굳이 저걸 보고 따라할 
 ## 공유
 - 
 
