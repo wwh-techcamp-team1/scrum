@@ -6,7 +6,7 @@
 - 다인이 다음주 월, 화 없대..
 
 ## 공유
-- [Spring EhCache](https://github.com/wwh-techcamp-team1/tech/blob/master/06.Spring%20EhCache%20%EC%82%AC%EC%9A%A9.md)
+- [Cache 사용 여부 테스트](https://github.com/wwh-techcamp-team1/tech/blob/master/08.%20Caching%20test.md)
 
 
 
