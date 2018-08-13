@@ -10,6 +10,9 @@
 
 ## 공유
 
+- git flow
+![git flow](https://backlog.com/git-tutorial/kr/img/post/stepup/capture_stepup1_5_6.png)
+
 ## 어제까지 진도
 - 개인 미션 진행 및 배민찬 종료
 
