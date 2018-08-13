@@ -11,6 +11,12 @@
 ## 공유
 
 - git flow
+
+  - 메인 브랜치(Main branch)
+  - 피처 브랜치(Feature branch) 또는 토픽 브랜치(Topic branch)
+  - 릴리스 브랜치(Release branch)
+  - 핫픽스 브랜치(Hotfix branch)
+
 ![git flow](https://backlog.com/git-tutorial/kr/img/post/stepup/capture_stepup1_5_6.png)
 
 ## 어제까지 진도
