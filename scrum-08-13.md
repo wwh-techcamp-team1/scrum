@@ -12,7 +12,7 @@
 
 - git flow
 
-  - 메인 브랜치(Main branch)
+  - 메인 브랜치(Main branch)(Master, develop)
   - 피처 브랜치(Feature branch) 또는 토픽 브랜치(Topic branch)
   - 릴리스 브랜치(Release branch)
   - 핫픽스 브랜치(Hotfix branch)
